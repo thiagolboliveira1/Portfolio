@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://github.com/thiagolboliveira1/Portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/thiagolboliveira1/Portfolio/blob/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Angular",
-        "logo": "https://github.com/thiagolboliveira1/Portfolio/blob/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "React",
-        "logo": "https://github.com/thiagolboliveira1/Portfolio/blob/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Mongodb",
-        "logo": "https://github.com/thiagolboliveira1/Portfolio/blob/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://github.com/thiagolboliveira1/Portfolio/blob/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/js.png"
       }
     ],
     "softSkills": [

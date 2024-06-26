@@ -35,10 +35,11 @@ function updateProfileInfo(profileData) {
         softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
     }
 
-    const hardSkills = document.getElementById('hardSkills')  // Certifique-se de que este ID exista no HTML
-    if (hardSkills) {
-        hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li>${skill.logo}</li>`).join('')
-    }
+    const hardSkills = document.getElementById('hardSkills');  // Certifique-se de que este ID exista no HTML
+if (hardSkills) {
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('');
+}
+
 }
 
 (async () => {
