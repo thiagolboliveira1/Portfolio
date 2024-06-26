@@ -32,7 +32,7 @@ a:hover {
 
 @font-face {
     font-family: 'Neue Machina';
-    src: url('/assets/fonts/neue-machina-regular.otf');
+    src: url('assets//fonts/neue-machina-regular.otf');
 }
 
 @media only screen and (min-width: 768px) {
