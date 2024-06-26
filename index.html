@@ -24,24 +24,26 @@
 <body>
     <main class="main">
     <!--Informações de Contato-->
-        <header class="header">
-            <!--Imagem-->
-            <img src="assets/img/WhatsApp Image 2023-01-31 at 10.38.48.jpeg" alt="Foto de Thiago" class="photo">
-
-            <!--Titulo-->
-            <h1 class="title">Olá, <br>eu sou <span class="profile.name">Carregando...</span></h1>
-
-            <div class="information">
-            <p class="job"><span class="profile.job">Carregando...</span></p>
-            <p class="location"><span class="profile.location">Carregando...</span></p>
+    <header class="header">
+        <!--Imagem-->
+        <img src="assets/img/WhatsApp Image 2023-01-31 at 10.38.48.jpeg" alt="Foto de Thiago" class="photo" id="profile.photo">
+        
+        <!--Titulo-->
+        <h1 class="title">Olá, <br>eu sou <span id="profile.name">Carregando...</span></h1>
+    
+        <div class="information">
+            <p class="job" id="profile.job">Carregando...</p>
+            <p class="location" id="profile.location">Carregando...</p>  <!-- Corrigido o ID -->
             <p class="phone">
-                <a href="tel:(41) 9 9881-3135" class="profile.phone" target="_blank">Carregando...</a>
+                <a href="tel:(41) 9 9881-3135" id="profile.phone" target="_blank">Carregando...</a>
             </p>
             <p class="email">
-                <a href="mailto:thiago.oliveira_1@hotmail.com" class="profile.email">Carregando@hotmail.com</a>
+                <a href="mailto:thiago.oliveira_1@hotmail.com" id="profile.email">Carregando@hotmail.com</a>
             </p>
-            </div>
-        </header>
+        </div>
+    </header>
+    
+    
     <!--Skills-->
         <section class="acordeon open"> 
             <button class="trigger" type="button">
