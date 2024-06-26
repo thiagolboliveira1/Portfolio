@@ -29,6 +29,11 @@ function updateProfileInfo(profileData) {
             email.href = `mailto:${profileData.email}`
         }
     }
+
+    const softSkills = document.getElementById('softSkills')  // Certifique-se de que este ID exista no HTML
+    if (softSkills) {
+        softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
+    }
 }
 
 (async () => {
