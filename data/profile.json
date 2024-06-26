@@ -12,8 +12,8 @@
         "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/java.png"
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/html.png"
       },
       {
         "name": "Angular",
@@ -24,8 +24,12 @@
         "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
+        "name": "HTML5",
         "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
