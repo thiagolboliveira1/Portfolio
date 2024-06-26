@@ -26,10 +26,6 @@
       {
         "name": "Mongodb",
         "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/thiagolboliveira1/Portfolio/main/data/imgs/Postgresql.png"
       }
     ],
     "softSkills": [
