@@ -53,11 +53,6 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
       "name": "Criando uma página sobre o Android",
       "url": "https://thiagolboliveira.github.io/projeto-android-2.0/",
       "github": true
