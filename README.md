@@ -15,10 +15,7 @@ Olá! Eu sou Thiago Oliveira, um estudande com paixão por programação. Tenho 
 
 ## Habilidades
 
-- **Linguagens de Programação:** [Lista de Linguagens]
-- **Frameworks e Bibliotecas:** [Lista de Frameworks e Bibliotecas]
-- **Ferramentas e Tecnologias:** [Lista de Ferramentas e Tecnologias]
-- **Outras Habilidades:** [Lista de Outras Habilidades]
+- **Linguagens de Programação:** HTML5, CSS3 e JavaScript
 
 ## Educação
 
