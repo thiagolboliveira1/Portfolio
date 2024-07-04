@@ -53,17 +53,17 @@
   ],
   "portfolio": [
     {
+      "name": "Curso na DIO para a criação de uma Pokedex",
+      "url": "https://thiagolboliveira1.github.io/pokedex/",
+      "github": true
+    },
+    {
       "name": "Criando uma página sobre o Android",
       "url": "https://thiagolboliveira.github.io/projeto-android-2.0/",
       "github": true
     },
     {
-      "name": "Criando uma carta pokedex ainda está em construção..",
-      "url": "https://thiagolboliveira1.github.io/js-developer-pokedex/",
-      "github": true
-    },
-    {
-      "name": "Criando uma página sobre Cordel Moderno por Milton Duarte",
+      "name": "Projeto Cordel é uma página sobre Cordel Moderno criado por Milton Duarte",
       "url": "https://thiagolboliveira.github.io/projeto-cordel/",
       "github": true
     },
