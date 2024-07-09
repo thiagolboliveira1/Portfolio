@@ -59,6 +59,12 @@ function updateProfileInfo(profileData) {
                 <a href="${project.url}" target="_blank">${project.url}</a>
             </li>
             `;
+
+            const certificados = document.getElementById('certificados')
+    if (certificados && profileData.certificados && profileData.certificados.certificados) {
+        certificados.innerHTML = profileData.certificados.certificados.map(certificados => `<li><img src="${certificados.logo}" alt="${certificados.name}" title="${certificados.name}"></li>`).join('');
+    }
+
         }).join('');
     }
 
